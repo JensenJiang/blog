@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/posts/new-york-travel-tips/</loc>
+    <lastmod>2018-12-31T17:04:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/magical-balls/</loc>
+    <lastmod>2016-05-13T11:07:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/series/2018-christmas-new-york/</loc>
+    <lastmod>2018-12-31T17:04:40-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/algorithm-questions/</loc>
+    <lastmod>2016-05-13T11:07:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-12-31T17:04:40-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2018-12-31T17:04:40-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/series/</loc>
+    <lastmod>2018-12-31T17:04:40-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2016-05-13T11:07:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/travel/</loc>
+    <lastmod>2018-12-31T17:04:40-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

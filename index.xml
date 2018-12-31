@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jensen&#39;s Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Jensen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Jensen</copyright>
+    <lastBuildDate>Sun, 30 Dec 2018 00:48:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New York 旅行攻略</title>
+      <link>http://example.org/posts/new-york-travel-tips/</link>
+      <pubDate>Sun, 30 Dec 2018 00:48:00 -0500</pubDate>
+      
+      <guid>http://example.org/posts/new-york-travel-tips/</guid>
+      <description>虽说是旅行攻略，但实在没有足够的时间将旅游前整理的资料完完整整地记录下来，只好将旅途中的一些心得写下来，希望能对你的旅行规划有所帮助:-)，同时也能作为未来旅行的一份参考。
+Air Travel 这是第一次订美国国内的机票，用的是Expedia Travel。Expedia Travel在选择往返的机票时有很灵活的选项，而以前一直在用的Skyscanner只会给出某些固定的往返组合，无法分开选择。另外，如果有同行的人，建议一起购买机票。我和同行的朋友在相近的时间里分开购买机票，结果只有第一个人按标定价格买到机票，其他人都上涨了40%左右。
+美国国内航班的Basic Economy都基本没有免费checked luggage的额度(土豪请无视)，而且对carry-on的行李也会有限制。根据我所查到的信息，United Airlines BA是只允许一件personal item(登机口处会有行李大小估计的装置，但实际上并没有很严格，至少我提着一个明显到达carry-on size的行李也没被拦下来)；Delta允许一件carry-on加一件personal item；Spirit只允许一件personal item。
+纽约市的主要机场有JFK(in Queens, handles international flights), LGA(in Queens, handles domestic flights)和EWR(in NJ)。虽然EWR在New Jersey，但可以乘坐AirTrain和NJ Transit Train到达Penn Station，车程大半个小时左右，花费$12.25。
+Hotel 曼哈顿寸土寸金，再加上14.75%的税费和某些酒店每晚30多刀的Resort Fee，我这种高度拖延症的穷学生自然是住不起的，然而当时Airbnb也没有找到合适的住宿，最后选了一个在Brooklyn的酒店。之前听说Brooklyn治安挺乱的，但实际来体验过后感觉还是要看区域，建议在NYC Crime Map找找看。
+    J线下的一处街道   我住的酒店附近大概是这个样子，感觉是一个有很多不同地区移民的聚居区，晚上会见到不少的homeless出没，偶尔会闻到大麻味，但Crime Map上显示恶性事件的发生频率并不高，实际体验过后感觉还算可以接受。
+Luggage Storage 纽约市似乎是因为1975 LaGuardia Airport bombing而完全撤去了公共的locker，所以第一天或者最后一天想要在check in前或者check out后找个地方暂时存放行李的话就会比较头疼。在纽约最后几天我发现了Vertoe和LuggageHero，他们提供将行李存放到本地一些商家的店内的服务，价格相对比较低廉，安全性存疑，建议不要存放贵重物品。当时我选择的是在Penn Station附近的一家gift shop，店内的人员简单地看了一下我的booking receipt后，给我的行李套上一个标识圈并放到店内角落后就完事了。虽然网站上的评论不多，但那一天店内的行李数还是挺多的。
+Transportation 纽约市的地铁交通挺发达的，很多线路都是24小时运行，基本能满足市内各处景点间的移动。想租车出游的话，考虑一下大城市堵车和找停车位难的问题的话大概就会放弃了。
+如果是计划停留4天或以上的话，我觉得就可以考虑一下7-Day / 30-Day Unlimited Ride MetroCard了(详细请参考Fares &amp;amp; MetroCard)。像我这样如果不住在Manhattan的话，平均每天进站次数在4到5次以上，完全可以值回票价，有时候还能用来坐坐巴士。要注意的是，Unlimited Ride是不能用于PATH, AirTrain, and Express buses的; 在同一个站的两次刷卡之间要超过18分钟。</description>
+    </item>
+    
+    <item>
+      <title>Magical Balls</title>
+      <link>http://example.org/posts/magical-balls/</link>
+      <pubDate>Fri, 13 May 2016 11:07:11 +0800</pubDate>
+      
+      <guid>http://example.org/posts/magical-balls/</guid>
+      <description>H.Magical Balls 原题传送门
+描述 Wenwen has a magical ball. When put on an infinite plane, it will keep duplicating itself forever.
+Initially, Wenwen puts the ball on the location $(x_0, y_0)$ of the plane. Then the ball starts to duplicate itself right away. For every unit of time, each existing ball on the plane will duplicate itself, and the new balls will be put on the adjacent locations. The duplication rule of these balls is, during the i-th unit of time, a ball, which locates at $(x, y)$, will duplicate $u_i$ balls to $(x, y+1)$, $d_i$ balls to $(x, y-1)$, $l_i$ balls to $(x-1, y)$ and $r_i$ balls to $(x+1, y)$.</description>
+    </item>
+    
+  </channel>
+</rss>
