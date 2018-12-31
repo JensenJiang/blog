@@ -1,0 +1,40 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jensen's Blog"
+theme = "cocoa-eh"
+copyright = "Jensen"
+
+[Author]
+    name = "Jensen"
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[Taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[params]
+    intro = true
+    headline = "Homepage"
+    twitter = "https://twitter.com/JensenJiang1995"
+    github = "https://github.com/JensenJiang"
+    [params.mathjax]
+        enable = true
+        cdn = "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Posts"
+    url = "/posts"
+    weight = 2
+
+[[menu.main]]
+    name = "Series"
+    url = "/series"
+    weight = 3

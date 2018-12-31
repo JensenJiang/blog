@@ -1,0 +1,10 @@
+[submodule "themes/ghostwriter"]
+	path = themes/ghostwriter
+	url = git@github.com:JensenJiang/ghostwriter.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+
+[submodule "themes/cocoa-eh"]
+	path = themes/cocoa-eh
+	url = git@github.com:JensenJiang/cocoa-eh-hugo-theme.git
