@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithm Questions on Jensen&#39;s Blog</title>
-    <link>jensenjiang.github.io/blog/tags/algorithm-questions/</link>
+    <link>https://jensenjiang.github.io/blog/tags/algorithm-questions/</link>
     <description>Recent content in Algorithm Questions on Jensen&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jensen</copyright>
     <lastBuildDate>Fri, 13 May 2016 11:07:11 +0800</lastBuildDate>
     
-	<atom:link href="jensenjiang.github.io/blog/tags/algorithm-questions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jensenjiang.github.io/blog/tags/algorithm-questions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Magical Balls</title>
-      <link>jensenjiang.github.io/blog/2016/05/13/magical-balls/</link>
+      <link>https://jensenjiang.github.io/blog/2016/05/13/magical-balls/</link>
       <pubDate>Fri, 13 May 2016 11:07:11 +0800</pubDate>
       
-      <guid>jensenjiang.github.io/blog/2016/05/13/magical-balls/</guid>
+      <guid>https://jensenjiang.github.io/blog/2016/05/13/magical-balls/</guid>
       <description>H.Magical Balls 原题传送门
 描述 Wenwen has a magical ball. When put on an infinite plane, it will keep duplicating itself forever.
 Initially, Wenwen puts the ball on the location $(x_0, y_0)$ of the plane. Then the ball starts to duplicate itself right away. For every unit of time, each existing ball on the plane will duplicate itself, and the new balls will be put on the adjacent locations. The duplication rule of these balls is, during the i-th unit of time, a ball, which locates at $(x, y)$, will duplicate $u_i$ balls to $(x, y+1)$, $d_i$ balls to $(x, y-1)$, $l_i$ balls to $(x-1, y)$ and $r_i$ balls to $(x+1, y)$.</description>
